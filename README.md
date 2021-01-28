@@ -1,7 +1,7 @@
 ### Hi there 👋
 
 <!--
-**MMIRMagPie/MMIRMagPie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+**MMIR/MMIR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
 
@@ -15,4 +15,4 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-![](https://github-readme-stats.vercel.app/api?username=MMIRMagPie&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,issues)
+![](https://github-readme-stats.vercel.app/api?username=MMIR&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,issues)
