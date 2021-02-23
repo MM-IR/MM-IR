@@ -15,12 +15,5 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 > * Multi-modal ML | Information Retrieval Apprentice.*
-<img src="https://imgur.com/EGgupvd" alt="" width="55" align="left">
-
-My name is **Jianyu Wang** and simply go by Randy. 惊鹊. I ...
-
-- (like) freedom.
-
-- (focus) on some interesting research areas, including multimedia intelligence, knowledge graph, information retrieval.
 
 ![](https://github-readme-stats.vercel.app/api?username=MM-IR&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,issues)
