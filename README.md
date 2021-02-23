@@ -15,7 +15,7 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 > * Multi-modal ML | Information Retrieval Apprentice.*
-<img src="https://imgur.com/TLDwvTR" alt="" width="55" align="left">
+<img src="https://imgur.com/EGgupvd" alt="" width="55" align="left">
 
 My name is **Jianyu Wang** and simply go by Randy. 惊鹊. I ...
 
