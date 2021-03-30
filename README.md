@@ -14,6 +14,8 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> * Multi-modal ML | Information Retrieval Apprentice.*
+> * Vision & Language | Information Retrieval | Knowledge Graph Apprentice.*
+
+-UCSD MSCS Master (CS75)
 
 ![](https://github-readme-stats.vercel.app/api?username=MM-IR&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,issues)
