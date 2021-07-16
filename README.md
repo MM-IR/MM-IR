@@ -15,10 +15,15 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 > * Vision & Language | Information Retrieval | Knowledge Graph Apprentice.*
+
 > 1.Multimedia Analysis, especially Vision & Language.
+
 > 2.Information Retrieval, including every aspects of IR-community. Recently, I'm conducting research on Multimedia IR and Conversational IR.
+
 > 3.Causal Inference/Counterfactual for IR.
+
 > 4.Information Extraction and Knowledge Graph (Neuro-symbolic reasoning).
+
 > 5.large-scale generic pretraining models.
 
 
