@@ -38,4 +38,6 @@ align=center>
 
 - 📫 How to reach me: jiw102@ucsd.edu, jianyuwang.work@outlook.com
 
-- 👌 yeah, Bitch I just wanna be rich~ 
+- 👌 Yeah, Bitch I just wanna be rich~ 
+
+-  ⚡ Fun fact: Maybe No?
