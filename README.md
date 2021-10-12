@@ -37,3 +37,5 @@ align=center>
 - 👯 I’m looking for any collaborations on my research regarding Vision & Language and Commonsense AI~
 
 - 📫 How to reach me: jiw102@ucsd.edu, jianyuwang.work@outlook.com
+
+- 👌 yeah, Bitch I just wanna be rich~ 
