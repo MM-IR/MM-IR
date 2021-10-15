@@ -40,6 +40,6 @@ align=center>
 
 - 👌 Yeah, Bitch I just wanna be rich~ 
 
--  ⚡ Fun fact: Maybe No?
+-  ⚡ Fun fact: Maybe No? 来自一位积极入世者, 或许生活就是Fun Fact.
 
 - 😄 曲中还未暖, 心不可已寒...
