@@ -43,3 +43,5 @@ align=center>
 -  ⚡ Fun fact: Maybe No? 来自一位积极入世者, 或许生活就是Fun Fact.
 
 - 😄 曲中还未暖, 心不可已寒...
+
+- 😁 emm 笔者有时候挺难过的, 想活得更加浪漫些... Artist + Romantic + Scientist?
