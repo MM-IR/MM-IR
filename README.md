@@ -45,3 +45,5 @@ align=center>
 - 😄 曲中还未暖, 心不可已寒...
 
 - 😁 emm 笔者有时候挺难过的, 想活得更加浪漫些... Artist + Romantic + Scientist?
+
+- 不怕您耻笑的是鄙人的爱好偏向于设计和创造, 喜欢嬉皮士的"Human Being". 🐷
