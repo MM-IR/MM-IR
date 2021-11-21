@@ -1,4 +1,5 @@
 ### 你好 | Good day | Bonjour | Guten Tag | 안녕  | こんにちは 👋
+
 *小心 这个用户有的时候比较疯*
 
 **The complete solution to this puzzle remains elusive🤔.**
@@ -18,7 +19,8 @@ Here are some ideas to get you started:
 -->
 > * Arbitrary desired domains: Vision & Language | Information Retrieval | Commonsense AI Apprentice.*
 
-
+>A person like **me** is like *an agent who performs random walk in a mysterious environment*, and during this journey, I, a 
+**Romantic realist**, can explore the strange 'games' which fulfill my needs!
 
 ![](https://github-readme-stats.vercel.app/api?username=MM-IR&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,issues)
 
