@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> * Arbitrary desired domains: Vision & Language | Information Retrieval | Commonsense AI Apprentice.*
+> * Arbitrary desired domains: Multi-modal AI | Common-sense AI Apprentice.*
 
 A person like **me** is like *an agent who performs random walk in a mysterious environment*, and during this journey, I, a 
 **Romantic realist**, can explore the strange 'games' which fulfill my needs!
