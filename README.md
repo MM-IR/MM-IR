@@ -40,7 +40,7 @@ align=center>
 
 - 📫 How to reach me: jiw102@ucsd.edu, jianyuwang.work@outlook.com
 
-- 👌 Yeah, Bitch I just wanna be rich~ @INTJ Personality Type.
+- 👌 Yeah, Bitch I just wanna be rich~ @INTJ/INTP Personality Type.
 
 -  ⚡ Fun fact: Maybe No? 来自一位积极入世者, 或许生活就是Fun Fact.
 
