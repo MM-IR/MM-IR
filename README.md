@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> * Desired domains: Panoramic Learning | Common-sense AI | Multimodal AI | Cognitive Science Apprentice.*
+> * Desired domains: Panoramic Learning | Common-sense AI | Multimodal AI | Cognitive Science | Pragmatic Reasoning Apprentice.*
 
 A person like **me** is like *an agent who performs random walk in a mysterious environment*, and during this journey, I, a 
 **Romantic realist**, can explore the strange 'games' which fulfill my needs!
