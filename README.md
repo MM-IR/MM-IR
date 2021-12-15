@@ -24,7 +24,7 @@ A person like **me** is like *an agent who performs random walk in a mysterious 
 
 ![](https://github-readme-stats.vercel.app/api?username=MM-IR&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,issues)
 
-- 🌱 I’m currently learning ...
+- 🌱 I’m currently learning RL/KG...
 
 
 <img src="https://user-images.githubusercontent.com/9102141/87268895-3e0d0780-c4fe-11ea-849e-6140b7e0d4de.gif" width = "200" height = "130" alt="图片名称" 
