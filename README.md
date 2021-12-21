@@ -49,3 +49,5 @@ align=center>
 - 😁 emm 笔者有时候挺难过的, 想活得更加浪漫些... Artist + Romantic + Scientist?
 
 - Exploration and Exploitation, deterministic or romantic, 喜欢嬉皮士的"Human Being". 🐷
+
+- Do you really pass the "Mirror Test"?
