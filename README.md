@@ -36,7 +36,9 @@ align=center>
 <img src="https://user-images.githubusercontent.com/9102141/87268895-3e0d0780-c4fe-11ea-849e-6140b7e0d4de.gif" width = "200" height = "130" alt="图片名称" 
 align=center>
 
-- 👯 I’m looking for any collaborations on my research regarding Vision & Language and Commonsense AI~ (未来是无处不在的计算和无处不在的智能!)
+- 👯 I’m looking for any collaborations on my research regarding Vision & Language and Commonsense AI~ 
+
+- 👍 **未来是无处不在的计算和无处不在的智能!**
 
 - 📫 How to reach me: jiw102@ucsd.edu, jianyuwang.work@outlook.com
 
