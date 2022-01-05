@@ -17,7 +17,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
-> * Desired domains: Panoramic Learning | Common-sense Intelligence | Multimodal Intellgence | Situated Intelligence | Cognitive Science | Pragmatic Reasoning Apprentice.*
 
 A person like **me** is like *an agent who performs random walk in a mysterious environment*, and during this journey, I, a 
 **Romantic realist**, can explore the strange 'games' which fulfill my needs!
@@ -38,18 +37,6 @@ align=center>
 
 - 👯 I’m looking for any collaborations on my research regarding Vision & Language and Commonsense AI~ 
 
-- 👍 **未来是无处不在的计算和无处不在的智能!**
-
 - 📫 How to reach me: jiw102@ucsd.edu, jianyuwang.work@outlook.com
-
-- 👌 Yeah, Bitch I just wanna be rich~ @INTJ/INTP Personality Type.
-
--  ⚡ Fun fact: Maybe No? 来自一位积极入世者, 或许生活就是Fun Fact.
-
-- 😄 曲中还未暖, 心不可已寒...
-
-- 😁 emm 笔者有时候挺难过的, 想活得更加浪漫些... Artist + Romantic + Scientist?
-
-- Exploration and Exploitation, deterministic or romantic, 喜欢嬉皮士的"Human Being". 🐷
 
 - Do you really pass the "Mirror Test"?
