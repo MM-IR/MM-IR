@@ -1,4 +1,4 @@
-### 你好 | Good day | Bonjour | Guten Tag | 안녕  | こんにちは 👋, Welcome to Jianyu?'s Github page!
+### こんにちは 👋, Welcome to Jianyu?'s Github page!
 
 *小心 这个用户有的时候比较疯. The question mark just shares you with his everything!*
 
