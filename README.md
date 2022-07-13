@@ -1,8 +1,4 @@
 ### こんにちは 👋, Welcome to Jianyu?'s Github page!
-
-*小心 这个用户有的时候比较疯. The question mark just shares you with his everything!*
-
-**The complete solution to this puzzle remains elusive🤔.**
 <!--
 **MM-IR/MM-IR** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
@@ -18,11 +14,6 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 
-A person like **me** is like *a philosophical zombie who performs random walk in a mysterious environment*, and during this journey, I, a 
-**Hater**, can explore the strange 'games' which fulfill my needs! 
-
-![](https://github-readme-stats.vercel.app/api?username=MM-IR&show_icons=true&theme=radical&bg_color=30,e96443,904e95&title_color=fff&text_color=fff&hide=contribs,issues)
-
 - 🌱 I’m currently learning...
 
 
@@ -35,9 +26,9 @@ align=center>
 <img src="https://user-images.githubusercontent.com/9102141/87268895-3e0d0780-c4fe-11ea-849e-6140b7e0d4de.gif" width = "200" height = "130" alt="图片名称" 
 align=center>
 
-- 👯 I’m looking for any collaborations on my research regarding AI~ 
+- 👯 I’m looking for any interesting collaborations on my research,
 
-- 📫 How to reach me: jiw102@ucsd.edu, jianyuwang.work@outlook.com
+- 📫 How to reach me: jiw102@ucsd.edu, or jianyuwang.work@outlook.com
 
 - Do you really pass the "Mirror Test"? 
 
